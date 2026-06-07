@@ -24,5 +24,3 @@ ENV/
 *.mkv
 *.mov
 
-# Exception for compressed demo video
-!assets/demo.mp4
