@@ -1,0 +1,25 @@
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# YOLO weights
+*.pt
+
+# Video files (avoids pushing large inputs/outputs >100MB)
+*.mp4
+*.avi
+*.mkv
+*.mov
