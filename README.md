@@ -4,6 +4,16 @@ A professional computer vision pipeline using **YOLOv8** and **OpenCV** to monit
 
 ---
 
+## 🎥 Demo Video
+
+Here is the system processing in real-time, showing the overlay on the source video and the stats dashboard rendering side-by-side:
+
+<p align="center">
+  <video src="assets/demo.mp4" width="800" controls autoplay loop muted></video>
+</p>
+
+---
+
 ## 🎯 The Problem & Our Solution
 
 ### 1. The Count vs. Space Dilemma
